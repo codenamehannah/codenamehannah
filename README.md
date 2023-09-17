@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codenamehannah
 - 👀 I’m interested in turtles
-- 🌱 I’m currently learning Java and Javascript
+- 🌱 I’m currently learning Java and SQL
 - 💞️ I’m looking to collaborate on anything really. 
 - 📫 How to reach me @codenamehannahs
 - <!---
