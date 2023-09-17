@@ -8,4 +8,4 @@
 
 🌐 On a mission to make the internet a better place, one line of code at a time. If you share a passion for coding, backend magic, or just want to connect, feel free to reach out! Let's learn and build together. 🤝
 
-🌟 Open to collaborations and always eager to contribute to exciting projects. Check out my repositories below and let's create some amazing software together! 🚀
+🌟 Open to collaborations and always eager to contribute to exciting projects. Check out my repositories and LinkedIn below! 🚀
